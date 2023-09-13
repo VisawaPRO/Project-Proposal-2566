@@ -226,10 +226,9 @@
 <H4>&emsp;&emsp;&emsp;&emsp;&emsp;(....................................)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(....................................)<H4>
 <H4>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;..................................&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;อาจารย์ที่ปรึกษา<H4>
 <H4>&emsp;&emsp;&emsp;&emsp;&emsp;(....................................)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;วันที่........./.................../..........<H4>
-<H4>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;..................................&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<ins>หมายเหตุ</ins><H4 align = left>
-เมื่อหัวข้อได้รับการอนุมัติแล้วให้ดำเนินการดังนี้
-</H4>
-<H4>&emsp;&emsp;&emsp;&emsp;&emsp;(....................................)<br>
-<br>
-<br>
-<H4>วันที่........./.................../..........</H4>
+<H4>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;..................................&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<ins>หมายเหตุ</ins></H4>
+<H4>&emsp;&emsp;&emsp;&emsp;&emsp;(....................................)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<textalign = center> เมื่อหัวข้อได้รับการอนุมัติแล้วให้ดำเนินการดังนี้
+                                                       ๑.แก้ไขแบบขออนุมัติหัวข้อโครงงานตามคำแนะนำของคณะกรรมการสอบ
+                                                       ๒.จัดพิมพ์และให้อาจารย์ที่ปรึกษาลงชื่อ
+                                                       ๓.ส่งไฟล์ในระบบตามประกาศแจ้งของกรรมการวิชาโครงงาน</textalign></H4>
+<H4>  วันที่........./.................../..........</H4>
